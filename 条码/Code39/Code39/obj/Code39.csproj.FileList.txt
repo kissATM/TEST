@@ -1,0 +1,8 @@
+bin\Debug\Code39.exe
+bin\Debug\Code39.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Code39.Form1.resources
+obj\Debug\Code39.Properties.Resources.resources
+obj\Debug\Code39.csproj.GenerateResource.Cache
+obj\Debug\Code39.exe
+obj\Debug\Code39.pdb

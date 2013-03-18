@@ -1,0 +1,42 @@
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe.manifest
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.application
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.pdb
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLib.dll
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLib.pdb
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe.manifest
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.application
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe
+C:\Documents and Settings\Administrator\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.pdb
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.pdb
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe.manifest
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.application
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.pdb
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLib.dll
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLib.pdb
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\obj\Debug\ResolveAssemblyReference.cache
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.Form1.resources
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.Properties.Resources.resources
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.csproj.GenerateResource.Cache
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe.manifest
+E:\技术源码\条码打印\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.application
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.pdb
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.Form1.resources
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.Properties.Resources.resources
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.csproj.GenerateResource.Cache
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe.manifest
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.application
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.pdb
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLib.dll
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\bin\Debug\BarcodeLib.pdb
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe.manifest
+C:\Documents and Settings\shaosong\桌面\Barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.application
